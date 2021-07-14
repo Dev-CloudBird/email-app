@@ -1,0 +1,12 @@
+{
+    "name": "marketing/e-mail",
+    "description": "email prueba",
+    "autoload": {
+        "psr-4": {
+            "Marketing\\EMail\\": "src/"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "numeroclientes": "1",
+    "clientes": [
+        {
+            "nombre": "Sr hermilo",
+            "correo": "contacto.cloudbird@gmail.com"
+        }
+    ]
+}
